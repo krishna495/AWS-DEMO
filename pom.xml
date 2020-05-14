@@ -15,7 +15,7 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
-  <build>
+  <build> 
     <plugins>
       <plugin>
         <!-- Build an executable war -->
